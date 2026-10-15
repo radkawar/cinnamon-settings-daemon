@@ -1,3 +1,9 @@
+cinnamon-settings-daemon (6.6.2+lindm.lock.1) zena; urgency=medium
+
+  * Fork-only native Mint backport of persistent logind Lock activation.
+
+ -- radkawar <radkawar28@gmail.com>  Thu, 15 Oct 2026 16:00:00 +0000
+
 cinnamon-settings-daemon (6.6.2) zena; urgency=medium
 
   [ Shun Zi ]
